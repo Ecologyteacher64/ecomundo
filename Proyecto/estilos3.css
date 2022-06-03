@@ -1,0 +1,30 @@
+body{
+    background:linear-gradient(90deg, rgb(14, 115, 18),rgb(51, 149, 31), rgb(51, 184, 78), rgb(61, 221, 82));
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+
+h1{
+    font-size: 60px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-left: 70px;
+    text-shadow: 5px 5px 5px rgb(238, 172, 146);
+}
+
+h3{
+    text-align:right;
+}
+
+p{
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.creative{
+    color:purple;
+}
+
+.anclaje{
+    text-align: right;
+}

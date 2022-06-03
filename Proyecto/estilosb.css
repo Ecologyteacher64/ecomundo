@@ -1,0 +1,17 @@
+body{
+    background-image: url("imagenes/biografia.jpg");
+    background-size:contain;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 8px 5px 5px rgb(58, 221, 17);
+}
+p{
+    color: rgb(0, 0, 0);
+    font-family: 'Century Schoolbook';
+    font-size: 20px;
+}
+.imagen{
+    text-align:left;
+}
